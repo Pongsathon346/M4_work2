@@ -19,12 +19,15 @@
 .content{
     display: flex;
     flex-flow: row nowrap;
+    
 }
 .leftmenu{
     display: flex;
-    width: 25%;
+    width: 500px;
+    align-items: center;
     flex-flow: column nowrap;
     justify-content: center;
+    
 }
 .leftmenu>div{
     background-color: dimgray;
@@ -35,7 +38,7 @@
     text-align: center;
 }
 .rightmenu{
-    width: 100%;
+    width: 1000px;
 }
 .rightmenu>div{
     font-size: 20px;
