@@ -29,14 +29,12 @@
     width: 70px;
 }
 .d1{
-    order: 1;
-    flex-basis: 200px;   
+    
+       
 }
 .d2{
-    order: 3;
-    flex-basis: 100px;   
+      
 }
 .d3{
-    order: 2;
-    flex-basis: 100px;   
+    
 }   

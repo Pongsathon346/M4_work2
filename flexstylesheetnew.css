@@ -1,0 +1,30 @@
+.flex-container{
+    display: flex;
+}
+.flex-container1{
+    display: flex;
+    flex-flow:row;
+}
+.container{
+    display: flex;
+    flex-flow:row;
+}
+.bg-blue{
+    background-color: darkgrey;
+}
+.bg-red{
+    background: wheat;
+}
+.flex-container>div{
+    background-color: dimgray;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    
+}
+.flex-container1>div{
+    background-color: dimgray;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+}
