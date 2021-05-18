@@ -28,3 +28,12 @@
     font-size: 25px;
     width: 70px;
 }
+.d1{
+    order: 1;
+}
+.d2{
+    order: 3;
+}
+.d3{
+    order: 2;
+}
