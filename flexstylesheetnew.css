@@ -8,10 +8,10 @@
 .top{
     display: flex;
     flex-flow: row nowrap;
-    background-color: lightgray;
+    background-color: lightblue;
 }
 .top>div{
-    background-color: dimgray;
+    background-color: lightskyblue;
     padding: 15px;
     margin: 20px;
     font-size: 15px;
@@ -30,7 +30,7 @@
     
 }
 .leftmenu>div{
-    background-color: dimgray;
+    background-color: lightskyblue;
     padding: 15px;
     margin: 20px;
     font-size: 15px;
@@ -41,7 +41,10 @@
     width: 1000px;
 }
 .rightmenu>div{
-    font-size: 20px;
+    font-size: 12px;
     padding-top:10px;
     padding-left:10px;
+}
+.img-right{
+    margin: 10px;
 }
